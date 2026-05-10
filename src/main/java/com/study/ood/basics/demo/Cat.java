@@ -1,4 +1,4 @@
-package com.study.ood.principles;
+package com.study.ood.basics.demo;
 
 public class Cat extends Animal {
 

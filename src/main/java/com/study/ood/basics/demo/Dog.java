@@ -1,4 +1,4 @@
-package com.study.ood.principles;
+package com.study.ood.basics.demo;
 
 /**
  * 3. Inheritance: Dog acquires the properties and behaviors of Animal.

@@ -1,4 +1,4 @@
-package com.study.ood.principles;
+package com.study.ood.basics.demo;
 
 /**
  * 1. Abstraction: We hide complex implementation details and only show the essential features.

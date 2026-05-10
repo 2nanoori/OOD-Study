@@ -1,4 +1,4 @@
-package com.study.ood.principles;
+package com.study.ood.basics.demo;
 
 import java.util.ArrayList;
 import java.util.List;
